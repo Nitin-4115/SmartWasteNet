@@ -1,0 +1,9 @@
+path: C:/Projects/Completed Projects/SmartWasteNet/dataset
+train: images/train
+val: images/val
+
+names:
+  0: glass
+  1: metal
+  2: plastic
+  3: other
