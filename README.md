@@ -39,7 +39,7 @@ SmartWasteNet/
     ```
 3.  **Install dependencies:**
     ```bash
-    pip install ultralytics streamlit pandas matplotlib pillow torch torchvision
+    pip install -r requirements.txt
     ```
 
 ## 🧠 Dataset & Training
